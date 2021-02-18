@@ -15,12 +15,12 @@ jobs:
 
       - name: Generate Resume HTML
         run: |
-          cat index.html | sed 's/<div class="resume">/<div>/' > resume.html
+          cat resume/index.html | sed 's/<div class="resume">/<div>/' > resume/resume.html
 
       - name: Convert
         uses: fifsky/html-to-pdf-action@master
         with:
-          htmlFile: ./resume.html
+          htmlFile: ./resume/resume.html
           outputFile: ./resume.pdf
           pdfOptions: '{}'
 
