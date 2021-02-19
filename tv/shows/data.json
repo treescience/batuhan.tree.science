@@ -21,13 +21,6 @@
         "image_url": "https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg"
     },
     {
-        "index": "tt10048342",
-        "title": "The Queen's Gambit",
-        "rating": 9,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@.jpg"
-    },
-    {
         "index": "tt1796960",
         "title": "Homeland",
         "rating": 9,
@@ -103,6 +96,13 @@
         "rating": 8,
         "rewatch": 4,
         "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ5MTM5Mjc5NV5BMl5BanBnXkFtZTgwMTk2MzExOTE@.jpg"
+    },
+    {
+        "index": "tt10048342",
+        "title": "The Queen's Gambit",
+        "rating": 8,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@.jpg"
     },
     {
         "index": "tt2467372",

@@ -4,7 +4,7 @@ import sys
 import textwrap
 from argparse import ArgumentParser, FileType
 from concurrent import futures
-from dataclasses import asdict, dataclass
+from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import Optional
 
@@ -22,12 +22,12 @@ BASE_TEMPLATE = string.Template((TEMPLATES / "base.html").read_text())
 INDENT = " " * 4
 
 
-@dataclass
+@dataclass(order=True)
 class Show:
-    index: str
-    title: str
-    rating: int
-    rewatch: int
+    index: str = field(compare=False, repr=False)
+    title: str = field(compare=False)
+    rating: int = field(compare=True)
+    rewatch: int = field(compare=True)
     image_url: Optional[int] = None
 
     to_json = asdict
@@ -45,7 +45,10 @@ class Show:
 
     def render(self):
         return CARD_TEMPLATE.safe_substitute(
-            title=self.title, image=self.image_url
+            title=self.title,
+            image=self.image_url,
+            watches=self.rewatch,
+            rating=self.rating,
         )
 
 
@@ -75,6 +78,7 @@ def generate(input_file):
     with open(input_file, "w") as stream:
         json.dump([show.to_json() for show in shows], stream, indent=4)
 
+    shows.sort(reverse=True)
     cards = "\n".join(render(shows))
     return BASE_TEMPLATE.safe_substitute(
         cards=textwrap.indent(cards, INDENT * 4)
