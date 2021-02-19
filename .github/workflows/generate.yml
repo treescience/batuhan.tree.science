@@ -1,10 +1,10 @@
-name: PDF builder
+name: Build Statics
 
 on: [push, pull_request]
 
 jobs:
-  html_to_pdf:
-    name: Generate PDF
+  build:
+    name: Generate static pages
     runs-on: ubuntu-latest
 
     steps:
@@ -12,6 +12,15 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 1
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Generate TV HTML
+        run: |
+          pip install imdbpy
+          python tv/generate.py tv/shows/data.json tv/index.html
 
       - name: Generate Resume HTML
         run: |
@@ -26,8 +35,8 @@ jobs:
 
       - name: Commit PDF
         run: |
-          git config --global user.name 'PDF Builder'
-          git config --global user.email 'pdf-builder-batuhan@users.noreply.github.com'
-          git add resume.pdf
-          git commit -am "Export the PDF"
+          git config --global user.name 'TV page builder'
+          git config --global user.email 'tv-page-builder-batuhan@users.noreply.github.com'
+          git add .
+          git commit -am "Build tv pages" --allow-empty
           git push
