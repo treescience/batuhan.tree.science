@@ -189,6 +189,13 @@
         "image_url": "https://m.media-amazon.com/images/M/MV5BNjRiYTIzZmUtMTFkNS00ZTM0LWE4ODAtMDliMGE4NzM5ZjVlXkEyXkFqcGdeQXVyNDQ0MTYzMDA@.jpg"
     },
     {
+        "index": "tt1710308",
+        "title": "Regular Show",
+        "rating": 7.5,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTM3MjYwODA3MV5BMl5BanBnXkFtZTcwOTc5Nzc4Nw@@.jpg"
+    },
+    {
         "index": "tt7161862",
         "title": "Stargate Origins",
         "rating": 7,
@@ -285,6 +292,13 @@
         "rating": 6.5,
         "rewatch": 1,
         "image_url": "https://m.media-amazon.com/images/M/MV5BMzFjMDU2NDQtYTlmYi00YmIzLWFkNzMtMzI1NTMwMjY4ZWI4XkEyXkFqcGdeQXVyMzU3MTc5OTE@.jpg"
+    },
+    {
+        "index": "tt9849210",
+        "title": "Biohackers",
+        "rating": 6,
+        "rewatch": 6,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOWYxOWY4NzItNTkxOC00YzZhLWJhNTEtYTllZjQ3MGY5ZDUxXkEyXkFqcGdeQXVyNjEwNTM2Mzc@.jpg"
     },
     {
         "index": "tt8787802",
