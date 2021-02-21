@@ -45,6 +45,7 @@ class Show:
 
     def render(self):
         return CARD_TEMPLATE.safe_substitute(
+            index=self.index,
             title=self.title,
             image=self.image_url,
             watches=self.rewatch,
