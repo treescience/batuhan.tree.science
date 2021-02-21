@@ -26,7 +26,7 @@ INDENT = " " * 4
 class Show:
     index: str = field(compare=False, repr=False)
     title: str = field(compare=False)
-    rating: int = field(compare=True)
+    rating: float = field(compare=True)
     rewatch: int = field(compare=True)
     image_url: Optional[int] = None
 
@@ -75,11 +75,12 @@ def generate(input_file):
         shows = json.load(stream, object_hook=Show.from_json)
 
     annotate_shows(shows, dump_to=input_file)
-    with open(input_file, "w") as stream:
-        json.dump([show.to_json() for show in shows], stream, indent=4)
 
     shows.sort(reverse=True)
     cards = "\n".join(render(shows))
+    with open(input_file, "w") as stream:
+        json.dump([show.to_json() for show in shows], stream, indent=4)
+
     return BASE_TEMPLATE.safe_substitute(
         cards=textwrap.indent(cards, INDENT * 4)
     )

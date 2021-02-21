@@ -23,16 +23,9 @@
     {
         "index": "tt1796960",
         "title": "Homeland",
-        "rating": 9,
+        "rating": 9.5,
         "rewatch": 2,
         "image_url": "https://m.media-amazon.com/images/M/MV5BMjA4MWM1OWQtMDdlMS00MmE4LWI2YTItODhhMGI5NTg0ODFhXkEyXkFqcGdeQXVyOTA3MTMyOTk@.jpg"
-    },
-    {
-        "index": "tt1856010",
-        "title": "House of Cards",
-        "rating": 9,
-        "rewatch": 2,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BODM1MDU2NjY5NF5BMl5BanBnXkFtZTgwMDkxNTcwNjM@.jpg"
     },
     {
         "index": "tt0374455",
@@ -42,6 +35,13 @@
         "image_url": "https://m.media-amazon.com/images/M/MV5BMjI0MTI4MTY3N15BMl5BanBnXkFtZTcwMjg1NjQ4NA@@.jpg"
     },
     {
+        "index": "tt4270492",
+        "title": "Billions",
+        "rating": 9,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMzk2MDk5YzEtZDUzZC00Yjc2LWI1MmYtNzBmMzQ4NmJiNjQwXkEyXkFqcGdeQXVyOTA3MTMyOTk@.jpg"
+    },
+    {
         "index": "tt0412142",
         "title": "House M.D.",
         "rating": 9,
@@ -49,18 +49,39 @@
         "image_url": "https://m.media-amazon.com/images/M/MV5BMDA4NjQzN2ItZDhhNC00ZjVlLWFjNTgtMTEyNDQyOGNjMDE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg"
     },
     {
-        "index": "tt0417299",
-        "title": "Avatar: The Last Airbender",
-        "rating": 9,
-        "rewatch": 2,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@.jpg"
+        "index": "tt4209256",
+        "title": "Colony",
+        "rating": 8.5,
+        "rewatch": 3,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTg1MzAzODQ5OF5BMl5BanBnXkFtZTgwMDA1MDI0NTM@.jpg"
     },
     {
-        "index": "tt4270492",
-        "title": "Billions",
-        "rating": 9,
+        "index": "tt2575988",
+        "title": "Silicon Valley",
+        "rating": 8.5,
+        "rewatch": 2,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOTcwNzU2MGEtMzUzNC00MzMwLWJhZGItNDY3NDllYjU5YzAyXkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg"
+    },
+    {
+        "index": "tt1856010",
+        "title": "House of Cards",
+        "rating": 8.5,
+        "rewatch": 2,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BODM1MDU2NjY5NF5BMl5BanBnXkFtZTgwMDkxNTcwNjM@.jpg"
+    },
+    {
+        "index": "tt1439629",
+        "title": "Community",
+        "rating": 8.5,
         "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BMzk2MDk5YzEtZDUzZC00Yjc2LWI1MmYtNzBmMzQ4NmJiNjQwXkEyXkFqcGdeQXVyOTA3MTMyOTk@.jpg"
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNDQ5NDZiYjktZmFmMy00MjAxLTk1MDktOGZjYTY5YTE1ODdmXkEyXkFqcGdeQXVyNjcwMzEzMTU@.jpg"
+    },
+    {
+        "index": "tt2149175",
+        "title": "The Americans",
+        "rating": 8.5,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjIzNTEzMDY3OF5BMl5BanBnXkFtZTcwMzI5NDI5OA@@.jpg"
     },
     {
         "index": "tt1286039",
@@ -70,60 +91,11 @@
         "image_url": "https://m.media-amazon.com/images/M/MV5BOTEzNTY5NDY5M15BMl5BanBnXkFtZTcwMTY4MDQ3Mg@@.jpg"
     },
     {
-        "index": "tt1439629",
-        "title": "Community",
-        "rating": 8,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BNDQ5NDZiYjktZmFmMy00MjAxLTk1MDktOGZjYTY5YTE1ODdmXkEyXkFqcGdeQXVyNjcwMzEzMTU@.jpg"
-    },
-    {
-        "index": "tt1695360",
-        "title": "The Legend of Korra",
-        "rating": 8,
-        "rewatch": 3,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BNTRmM2E5OWYtYmYzMi00MDRiLTg2ZTYtZGQyZTNhZDMxYTgzXkEyXkFqcGdeQXVyODUwNjEzMzg@.jpg"
-    },
-    {
-        "index": "tt2149175",
-        "title": "The Americans",
-        "rating": 8,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BMjIzNTEzMDY3OF5BMl5BanBnXkFtZTcwMzI5NDI5OA@@.jpg"
-    },
-    {
         "index": "tt2402207",
         "title": "The Last Ship",
         "rating": 8,
         "rewatch": 4,
         "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ5MTM5Mjc5NV5BMl5BanBnXkFtZTgwMTk2MzExOTE@.jpg"
-    },
-    {
-        "index": "tt10048342",
-        "title": "The Queen's Gambit",
-        "rating": 8,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@.jpg"
-    },
-    {
-        "index": "tt2467372",
-        "title": "Brooklyn Nine-Nine",
-        "rating": 8,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@.jpg"
-    },
-    {
-        "index": "tt2575988",
-        "title": "Silicon Valley",
-        "rating": 8,
-        "rewatch": 2,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BOTcwNzU2MGEtMzUzNC00MzMwLWJhZGItNDY3NDllYjU5YzAyXkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg"
-    },
-    {
-        "index": "tt2741602",
-        "title": "The Blacklist",
-        "rating": 8,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BZDA1MzE3M2EtNTE4Ni00OGE4LWE1NjctYzFhMzA2NDgxMDIxXkEyXkFqcGdeQXVyODUxOTU0OTg@.jpg"
     },
     {
         "index": "tt2861424",
@@ -133,25 +105,11 @@
         "image_url": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@.jpg"
     },
     {
-        "index": "tt4179452",
-        "title": "The Last Kingdom",
-        "rating": 8,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BMjE1MzYzNjk3OF5BMl5BanBnXkFtZTgwMzk0MzYwNzE@.jpg"
-    },
-    {
-        "index": "tt4209256",
-        "title": "Colony",
+        "index": "tt1695360",
+        "title": "The Legend of Korra",
         "rating": 8,
         "rewatch": 3,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BMTg1MzAzODQ5OF5BMl5BanBnXkFtZTgwMDA1MDI0NTM@.jpg"
-    },
-    {
-        "index": "tt5296406",
-        "title": "Designated Survivor",
-        "rating": 8,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1.jpg"
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNTRmM2E5OWYtYmYzMi00MDRiLTg2ZTYtZGQyZTNhZDMxYTgzXkEyXkFqcGdeQXVyODUwNjEzMzg@.jpg"
     },
     {
         "index": "tt0944947",
@@ -161,80 +119,88 @@
         "image_url": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@.jpg"
     },
     {
-        "index": "tt4192998",
-        "title": "Okkupert",
-        "rating": 7,
-        "rewatch": 1
+        "index": "tt0417299",
+        "title": "Avatar: The Last Airbender",
+        "rating": 8,
+        "rewatch": 2,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@.jpg"
     },
     {
-        "index": "tt10577736",
-        "title": "Tehran",
-        "rating": 7,
+        "index": "tt2741602",
+        "title": "The Blacklist",
+        "rating": 8,
         "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BYTJhODc4OGQtNzk1Mi00YjMzLTg5YzEtOGE1NjRmODkwOGVjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg"
-    },
-    {
-        "index": "tt10919486",
-        "title": "Into the Night",
-        "rating": 7,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BZjNiMzJkZDMtZDg4NC00YjQyLTg2ZGQtOGVjNDdjZGQyZWU4XkEyXkFqcGdeQXVyMjQ0NDQxNDA@.jpg"
-    },
-    {
-        "index": "tt2531336",
-        "title": "Lupin",
-        "rating": 7,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BNzRlNGUzMmEtYTg0Ni00N2U2LTg4YWEtNDdlNmMwYjBlZDQ0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg"
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZDA1MzE3M2EtNTE4Ni00OGE4LWE1NjctYzFhMzA2NDgxMDIxXkEyXkFqcGdeQXVyODUxOTU0OTg@.jpg"
     },
     {
         "index": "tt0303461",
         "title": "Firefly",
-        "rating": 7,
+        "rating": 8,
         "rewatch": 1,
         "image_url": "https://m.media-amazon.com/images/M/MV5BOTcwNzkwMDItZmM1OC00MmQ2LTgxYjgtOTNiNDgxZDAxMjk0XkEyXkFqcGdeQXVyNDQ0MTYzMDA@.jpg"
     },
     {
-        "index": "tt0436992",
-        "title": "Doctor Who",
-        "rating": 7,
+        "index": "tt2467372",
+        "title": "Brooklyn Nine-Nine",
+        "rating": 8,
         "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BZWJhYjFmZDEtNTVlYy00NGExLWJhZWItNTAxODY5YTc3MDFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg"
-    },
-    {
-        "index": "tt4877736",
-        "title": "BrainDead",
-        "rating": 7,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BMTg4MzgzOTAyNl5BMl5BanBnXkFtZTgwNzYxNjg0ODE@.jpg"
-    },
-    {
-        "index": "tt4878488",
-        "title": "Stateless",
-        "rating": 7,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BYzhlYmRiMGMtMDFlOS00OTYwLTg3YmYtMTk4YzE4YmQ1MDc5XkEyXkFqcGdeQXVyNjIyODg4MzQ@.jpg"
-    },
-    {
-        "index": "tt5057054",
-        "title": "Jack Ryan",
-        "rating": 7,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BNDg1Zjc4YzktMmRmZi00ZWJmLWJiYzgtYjg3MmE0OTM1NzY5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg"
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@.jpg"
     },
     {
         "index": "tt5673782",
         "title": "Genius",
-        "rating": 7,
+        "rating": 8,
         "rewatch": 1,
         "image_url": "https://m.media-amazon.com/images/M/MV5BNjRiYmE5MTctZGIzOS00MTQwLWFjZmEtNDhlNzJkNDc3ZWYzXkEyXkFqcGdeQXVyMTAwMzM3NDI3.jpg"
     },
     {
-        "index": "tt6474236",
-        "title": "The Looming Tower",
+        "index": "tt10048342",
+        "title": "The Queen's Gambit",
+        "rating": 8,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@.jpg"
+    },
+    {
+        "index": "tt7671598",
+        "title": "Messiah",
+        "rating": 7.5,
+        "rewatch": 2,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BN2E2NzRmZmYtZmJlOC00NmJmLWE2NzktOGZlYzdjNTM0ZmI4XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg"
+    },
+    {
+        "index": "tt0436992",
+        "title": "Doctor Who",
+        "rating": 7.5,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZWJhYjFmZDEtNTVlYy00NGExLWJhZWItNTAxODY5YTc3MDFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg"
+    },
+    {
+        "index": "tt4192998",
+        "title": "Okkupert",
+        "rating": 7.5,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BODVkNzdiZmQtNGRkYS00MWQwLWEzY2EtOTI3ZmU5MjAyOWYwXkEyXkFqcGdeQXVyMTQ5MjkwNDI@.jpg"
+    },
+    {
+        "index": "tt2661044",
+        "title": "The 100",
+        "rating": 7.5,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNjRiYTIzZmUtMTFkNS00ZTM0LWE4ODAtMDliMGE4NzM5ZjVlXkEyXkFqcGdeQXVyNDQ0MTYzMDA@.jpg"
+    },
+    {
+        "index": "tt7161862",
+        "title": "Stargate Origins",
+        "rating": 7,
+        "rewatch": 2,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOTg0Y2ZkYjUtZjA2NC00Y2M4LWFkMjctZmEyMjRmY2Y3NTdiXkEyXkFqcGdeQXVyMzM2NzQwNDM@.jpg"
+    },
+    {
+        "index": "tt5296406",
+        "title": "Designated Survivor",
         "rating": 7,
         "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BN2JiNGIzOTAtYjk2NC00YzAzLTk2OTYtY2QxYjIwZWJhNjQ4XkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg"
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1.jpg"
     },
     {
         "index": "tt2306299",
@@ -244,74 +210,88 @@
         "image_url": "https://m.media-amazon.com/images/M/MV5BODk4ZjU0NDUtYjdlOS00OTljLTgwZTUtYjkyZjk1NzExZGIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@.jpg"
     },
     {
-        "index": "tt6536562",
-        "title": "Payitaht Abd\u00fclhamid",
-        "rating": 7,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BMzMzMzcyNWItYmRjMC00MjM2LWFlYzgtOTA5NDFkYTEwZjMzXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
-    },
-    {
-        "index": "tt6729080",
-        "title": "Collateral",
-        "rating": 7,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BNzY2MDg2Njk3MV5BMl5BanBnXkFtZTgwMTE4MTY4NDM@.jpg"
-    },
-    {
-        "index": "tt7671598",
-        "title": "Messiah",
-        "rating": 7,
-        "rewatch": 2,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BN2E2NzRmZmYtZmJlOC00NmJmLWE2NzktOGZlYzdjNTM0ZmI4XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg"
-    },
-    {
-        "index": "tt9244578",
-        "title": "Rise of Empires: Ottoman",
-        "rating": 7,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BODIyNGU3OGMtNzBiYi00YTA4LTkzNjItYzBjZDgwMDUyMDg1XkEyXkFqcGdeQXVyOTkzODAxNTE@.jpg"
-    },
-    {
-        "index": "tt1299365",
-        "title": "How to Make It in America",
-        "rating": 6,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BMzFjMDU2NDQtYTlmYi00YmIzLWFkNzMtMzI1NTMwMjY4ZWI4XkEyXkFqcGdeQXVyMzU3MTc5OTE@.jpg"
-    },
-    {
         "index": "tt1462059",
         "title": "Falling Skies",
-        "rating": 6,
+        "rating": 7,
         "rewatch": 1,
         "image_url": "https://m.media-amazon.com/images/M/MV5BNTMwNGNiZjktMTRmMi00YTM1LTllYjctOWU0ZjU2Y2JjZDA1XkEyXkFqcGdeQXVyOTQxNzM2MjY@.jpg"
     },
     {
-        "index": "tt1641349",
-        "title": "Terra Nova",
-        "rating": 6,
+        "index": "tt5057054",
+        "title": "Jack Ryan",
+        "rating": 7,
         "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BMjIxNTQ4OTQ2OV5BMl5BanBnXkFtZTcwMzA3OTQzNg@@.jpg"
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNDg1Zjc4YzktMmRmZi00ZWJmLWJiYzgtYjg3MmE0OTM1NzY5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg"
+    },
+    {
+        "index": "tt4179452",
+        "title": "The Last Kingdom",
+        "rating": 7,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjE1MzYzNjk3OF5BMl5BanBnXkFtZTgwMzk0MzYwNzE@.jpg"
+    },
+    {
+        "index": "tt4877736",
+        "title": "BrainDead",
+        "rating": 7,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTg4MzgzOTAyNl5BMl5BanBnXkFtZTgwNzYxNjg0ODE@.jpg"
     },
     {
         "index": "tt1865718",
         "title": "Gravity Falls",
-        "rating": 6,
+        "rating": 7,
         "rewatch": 1,
         "image_url": "https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx.jpg"
     },
     {
-        "index": "tt2661044",
-        "title": "The 100",
-        "rating": 6,
+        "index": "tt10919486",
+        "title": "Into the Night",
+        "rating": 6.5,
         "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BNjRiYTIzZmUtMTFkNS00ZTM0LWE4ODAtMDliMGE4NzM5ZjVlXkEyXkFqcGdeQXVyNDQ0MTYzMDA@.jpg"
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZjNiMzJkZDMtZDg4NC00YjQyLTg2ZGQtOGVjNDdjZGQyZWU4XkEyXkFqcGdeQXVyMjQ0NDQxNDA@.jpg"
     },
     {
-        "index": "tt4158110",
-        "title": "Mr. Robot",
+        "index": "tt7366338",
+        "title": "Chernobyl",
+        "rating": 6.5,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg"
+    },
+    {
+        "index": "tt4878488",
+        "title": "Stateless",
+        "rating": 6.5,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYzhlYmRiMGMtMDFlOS00OTYwLTg3YmYtMTk4YzE4YmQ1MDc5XkEyXkFqcGdeQXVyNjIyODg4MzQ@.jpg"
+    },
+    {
+        "index": "tt10577736",
+        "title": "Tehran",
+        "rating": 6.5,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYTJhODc4OGQtNzk1Mi00YjMzLTg5YzEtOGE1NjRmODkwOGVjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg"
+    },
+    {
+        "index": "tt6474236",
+        "title": "The Looming Tower",
+        "rating": 6.5,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BN2JiNGIzOTAtYjk2NC00YzAzLTk2OTYtY2QxYjIwZWJhNjQ4XkEyXkFqcGdeQXVyNTE1NjY5Mg@@.jpg"
+    },
+    {
+        "index": "tt1299365",
+        "title": "How to Make It in America",
+        "rating": 6.5,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMzFjMDU2NDQtYTlmYi00YmIzLWFkNzMtMzI1NTMwMjY4ZWI4XkEyXkFqcGdeQXVyMzU3MTc5OTE@.jpg"
+    },
+    {
+        "index": "tt8787802",
+        "title": "Away",
         "rating": 6,
         "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg"
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZDg0NDAxOTctZjdmNy00ODVjLTgyMDItZjFmMjdjYTk3ZTYxXkEyXkFqcGdeQXVyNjEwNTM2Mzc@.jpg"
     },
     {
         "index": "tt6170874",
@@ -321,6 +301,41 @@
         "image_url": "https://m.media-amazon.com/images/M/MV5BYzdmMzVhNDctY2QxYS00OTQyLWI0N2EtODdmNDA3M2YwMTQ0XkEyXkFqcGdeQXVyNDY2NDU1MzA@.jpg"
     },
     {
+        "index": "tt9244578",
+        "title": "Rise of Empires: Ottoman",
+        "rating": 6,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BODIyNGU3OGMtNzBiYi00YTA4LTkzNjItYzBjZDgwMDUyMDg1XkEyXkFqcGdeQXVyOTkzODAxNTE@.jpg"
+    },
+    {
+        "index": "tt6729080",
+        "title": "Collateral",
+        "rating": 6,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNzY2MDg2Njk3MV5BMl5BanBnXkFtZTgwMTE4MTY4NDM@.jpg"
+    },
+    {
+        "index": "tt2531336",
+        "title": "Lupin",
+        "rating": 6,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNzRlNGUzMmEtYTg0Ni00N2U2LTg4YWEtNDdlNmMwYjBlZDQ0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg"
+    },
+    {
+        "index": "tt4158110",
+        "title": "Mr. Robot",
+        "rating": 6,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg"
+    },
+    {
+        "index": "tt6536562",
+        "title": "Payitaht Abd\u00fclhamid",
+        "rating": 6,
+        "rewatch": 1,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMzMzMzcyNWItYmRjMC00MjM2LWFlYzgtOTA5NDFkYTEwZjMzXkEyXkFqcGdeQXVyNDg4MjkzNDk@.jpg"
+    },
+    {
         "index": "tt7131720",
         "title": "Kakegurui",
         "rating": 6,
@@ -328,25 +343,11 @@
         "image_url": "https://m.media-amazon.com/images/M/MV5BMmRhZDI4ODItYTAzMC00NWQ1LTk1MTctZWYyMDY3ZTU3NWFiXkEyXkFqcGdeQXVyMzgxODM4NjM@.jpg"
     },
     {
-        "index": "tt7161862",
-        "title": "Stargate Origins",
-        "rating": 6,
-        "rewatch": 2,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BOTg0Y2ZkYjUtZjA2NC00Y2M4LWFkMjctZmEyMjRmY2Y3NTdiXkEyXkFqcGdeQXVyMzM2NzQwNDM@.jpg"
-    },
-    {
-        "index": "tt7366338",
-        "title": "Chernobyl",
+        "index": "tt1641349",
+        "title": "Terra Nova",
         "rating": 6,
         "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg"
-    },
-    {
-        "index": "tt8787802",
-        "title": "Away",
-        "rating": 6,
-        "rewatch": 1,
-        "image_url": "https://m.media-amazon.com/images/M/MV5BZDg0NDAxOTctZjdmNy00ODVjLTgyMDItZjFmMjdjYTk3ZTYxXkEyXkFqcGdeQXVyNjEwNTM2Mzc@.jpg"
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjIxNTQ4OTQ2OV5BMl5BanBnXkFtZTcwMzA3OTQzNg@@.jpg"
     },
     {
         "index": "tt11301642",
@@ -358,7 +359,7 @@
     {
         "index": "tt0903747",
         "title": "Breaking Bad",
-        "rating": 4,
+        "rating": 4.5,
         "rewatch": 1,
         "image_url": "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg"
     }
